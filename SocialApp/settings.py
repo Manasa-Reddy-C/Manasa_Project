@@ -138,6 +138,7 @@ LOGIN_REDIRECT_URL = 'home'
 LOGOUT_URL = 'logout'
 LOGOUT_REDIRECT_URL = 'login'
 
+
 SOCIAL_AUTH_FACEBOOK_KEY = 'xxxxxxxxxxxxxxxxxxxx'        
 SOCIAL_AUTH_FACEBOOK_SECRET = 'xxxxxxxxxxxxxxxxxxxx' 
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email', 'user_link'] 
